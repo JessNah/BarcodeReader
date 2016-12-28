@@ -1,5 +1,5 @@
 
-Kinect BarCodeReader that displays the value of the barcode when it is in view. Uses the zxing library
+BarCodeReader that displays the value of the barcode when it is in view. Uses the zxing library
 
 
 <img src="https://cloud.githubusercontent.com/assets/14356838/18962049/37c4edce-863d-11e6-9060-824e0a11ec75.png">
@@ -11,15 +11,9 @@ The second image, is the barcode that I had held up for testing. As you can see,
 it reads the same value as the barcode.
 
 
-The main .cs files were all microsoft files taken and used as templates.
-These were the template/single feature example files/projects found from
-the Kinect toolkit/browser once installing the Kinect for Windows v2.
+This program makes use of the C#WebCam respository to make use of your device's webcam
+and display a live video feed upon the click of the start button.
+The stream image may be captured and saved at any time.
+The program works live and dynamically to detect any barcodes that may be present in its view.
+If a barcode is detected, it then presents its decoded barcode value.
 
-I used these files as allowed by Microsoft as a template for my project
-to be built upon.
-
-//------------------------------------------------------------------------------
-// <copyright file="MainWindow.xaml.cs" company="Microsoft">
-//     Copyright (c) Microsoft Corporation.  All rights reserved.
-// </copyright>
-//------------------------------------------------------------------------------
