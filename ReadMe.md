@@ -2,7 +2,7 @@
 BarCodeReader that displays the value of the barcode when it is in view. Uses the zxing library
 
 
-<img src="https://cloud.githubusercontent.com/assets/14356838/18962049/37c4edce-863d-11e6-9060-824e0a11ec75.png">
+<img src="https://cloud.githubusercontent.com/assets/14356838/21531732/6106e314-cd18-11e6-9302-bee0736e5a6e.png">
 
 <img src ="https://cloud.githubusercontent.com/assets/14356838/18962118/8349087a-863d-11e6-86b7-0a8cdd92941f.jpg">
 
