@@ -226,7 +226,7 @@ namespace barcodeReader
 
                 string myPhotos = Environment.GetFolderPath(Environment.SpecialFolder.MyPictures);
 
-                string path = Path.Combine(myPhotos, "creenshot-Color-" + time + ".png");
+                string path = Path.Combine(myPhotos, "Screenshot-Color-" + time + ".png");
 
                 // write the new file to disk
                 try
