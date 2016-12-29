@@ -24,3 +24,16 @@ C:\Users\Jessica Nahulan\Desktop\Barcode Reader\WebCamWrapper\obj\Debug\Touchles
 C:\Users\Jessica Nahulan\Desktop\Barcode Reader\WebCamWrapper\obj\Debug\Touchless.Vision.g.resources
 C:\Users\Jessica Nahulan\Desktop\Barcode Reader\WebCamWrapper\obj\Debug\Touchless.Vision.dll
 C:\Users\Jessica Nahulan\Desktop\Barcode Reader\WebCamWrapper\obj\Debug\Touchless.Vision.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\bin\Debug\Touchless.Vision.dll
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\bin\Debug\Touchless.Vision.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\bin\Debug\Touchless.Vision.dll.CodeAnalysisLog.xml
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\bin\Debug\Touchless.Vision.dll.lastcodeanalysissucceeded
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\bin\Debug\WebCamLib.dll
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\bin\Debug\WebCamLib.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\obj\Debug\WebCamWrapper.csprojResolveAssemblyReference.cache
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\obj\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.baml
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\obj\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.g.cs
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\obj\Debug\Touchless.Vision_MarkupCompile.cache
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\obj\Debug\Touchless.Vision.g.resources
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\obj\Debug\Touchless.Vision.dll
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\WebCamWrapper\obj\Debug\Touchless.Vision.pdb

@@ -148,7 +148,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="Demo_TemporaryKey.pfx" />
     <None Include="Properties\app.config" />
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
